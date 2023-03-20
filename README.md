@@ -1,0 +1,1 @@
+# NewTempSensorAdapter.github.io
